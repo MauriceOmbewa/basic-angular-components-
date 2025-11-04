@@ -4,6 +4,7 @@ import { RouterOutlet } from '@angular/router';
 @Component({
   selector: 'header',
   templateUrl: './header.html',
+  styleUrl: './app.header.css'
   // styleUrl: './app.css'
 })
 export class Nav {
