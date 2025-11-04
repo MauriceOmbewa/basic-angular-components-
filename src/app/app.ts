@@ -24,7 +24,7 @@ export class Body {
 @Component({
   selector: 'footer',
   templateUrl: './footer.html',
-  styleUrl: './app.css'
+  styleUrl: './app.footer.css'
 })
 export class Footer {
   protected readonly title = signal('project2');
