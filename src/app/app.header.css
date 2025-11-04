@@ -1,0 +1,20 @@
+.header{
+ display: flex;   
+ border: 20px;
+ justify-content: space-around;
+ align-items: center;
+ background-color: #333;
+ color: white;
+ padding: 10px 500px;
+ border: 0 300px;
+}
+
+/* .about{
+    border:20px;
+}
+.contacts{
+    border:20px;
+}
+.news{
+    border:20px;
+} */
